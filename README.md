@@ -34,7 +34,7 @@ The synthetic dataset includes environmental parameters such as:
 
 | File | Description |
 |------|-------------|
-| `data_visualization_enhanced_updated.ipynb` | Final interactive notebook with advanced Plotly visualizations |
+| `data_visualization.ipynb` | Final interactive notebook with advanced Plotly visualizations |
 | `README.md` | Project overview and instructions |
 
 ---
@@ -43,13 +43,13 @@ The synthetic dataset includes environmental parameters such as:
 
 1. Clone this repo:
    ```bash
-   git clone https://github.com/your-username/interactive-data-visualization.git
+   git clone https://github.com/BodaaMohamed/interactive-data-visualization.git
    cd interactive-data-visualization
    ```
 
 2. Open the notebook:
    ```bash
-   jupyter notebook data_visualization_enhanced_updated.ipynb
+   jupyter notebook data_visualizatio.ipynb
    ```
 
 3. Explore and interact with the visualizations!
